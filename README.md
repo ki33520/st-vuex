@@ -1,2 +1,0 @@
-# st-vuex
-vuex test
